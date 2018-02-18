@@ -21,13 +21,13 @@ Running node will first display all of the items available for sale. Include the
 Next node prompts then users with two messages.
 
 The first asks them the ID of the product they would like to buy.
-[What item number would you like to buy](Bamazon/screenshots/ListOfItems.gif)
+[What item number would you like to buy](screenshots/ListOfItems.gif)
 <!-- ![What item number would you like to buy](/Bamazon/screenshots/ListOfItems.gif) -->
 <!-- Format: ![Chossing an item from the list](url) -->
-
+[What item number would you like to buy](/screenshots/ListOfItems.gif)
 The second message asks how many units of the product they would like to buy.
 
-![What quantity of item number would you like to buy](/Bamazon/screenshots/QuantityWanted.gif)
+![What quantity of item number would you like to buy](screenshots/QuantityWanted.gif)
 Format: ![Chossing the quantity of the item from the list](url)
 
 Once the customer has placed the order the application checks if the "store" has enough of the product to meet the customer's request.

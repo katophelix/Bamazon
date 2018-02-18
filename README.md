@@ -18,7 +18,7 @@ table is broken down into the following coulumns:
 Running node will first display all of the items available for sale. Including the ids, names, and prices of products for sale.
 
 Next node prompts then users with two messages.
-(screenshots/ListOfItems.gif)
+![List of items](screenshots/ListOfItems.gif)
 
 The first asks them the ID of the product they would like to buy.
 [What item number would you like to buy](screenshots/ListOfItems.gif)

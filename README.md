@@ -21,7 +21,7 @@ Running node will first display all of the items available for sale. Include the
 Next node prompts then users with two messages.
 
 The first asks them the ID of the product they would like to buy.
-[What item number would you like to buy](/Bamazon/screenshots/ListOfItems.gif)
+[What item number would you like to buy](Bamazon/screenshots/ListOfItems.gif)
 <!-- ![What item number would you like to buy](/Bamazon/screenshots/ListOfItems.gif) -->
 <!-- Format: ![Chossing an item from the list](url) -->
 

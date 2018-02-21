@@ -45,4 +45,42 @@ if the store does have enough of the product, the customers order is fulfilled a
 
 the databse is reduced by the number of items sold - * *here item number 1 is reduced from 12 to 10* *
 
-![databse is reduced by the number of items sold](screenshots/AvailQuantityGoesDown.gif)
+![database is reduced by the number of items sold](screenshots/AvailQuantityGoesDown.gif)
+
+
+
+## MySql Database - Bamazon
+# Manager
+
+Running this node application first
+List a set of menu options:
+* View Products for Sale
+* View Low Inventory
+* Add to Inventory
+* Add New Product
+![Menu to choose from](screenshots/menu.gif)
+
+If the user selects View Products for Sale, a list of every available item: the item IDs, names, prices, and quantities appears.
+![Product List](screenshots/productlist.gif)
+and the menu reappears
+
+
+If the user selects View Low Inventory, then it lists all items with an inventory count lower than five.
+![Low Inventory](screenshots/lowinven.gif)
+and the menu reappears
+
+
+
+If the user selects Add to Inventory, then the app prompts to user to add quantity to an item
+![Add Inventory](screenshots/addquantity.gif)
+and the menu reappears
+
+
+If the user selects Add New Product, it prompts the user to add a completely new product to the store.
+![Add new product](screenshots/addinven.gif)
+![Fish was added](screenshots/fish.gif)
+
+and the menu reappears
+
+If the user selects exit program - it exits the program
+![Exit Program](screenshots/exit.gif)

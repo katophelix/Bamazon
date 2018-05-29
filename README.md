@@ -1,8 +1,9 @@
 
-## MySql Database - Bamazon
+## MySql Database - Bamazon Store
+![Video](https://user-images.githubusercontent.com/32774089/40667389-1147ab7e-6330-11e8-93b8-5ce8ce68a4ed.gif)
 # Customer
-Contains a table with avaible products
-The table is broken down into the following coulumns:
+Contains a table with available products
+The table is broken down into the following columns:
 
 * item_id (unique id for each product)
 
@@ -19,7 +20,7 @@ Running node will first display all of the items available for sale. Including t
 
 ![List of items](screenshots/ListOfItems.gif)
 
-Next node prompts then users with two messages.
+Next node prompts the users with two messages.
 
 
 The first asks them the ID of the product they would like to buy.
@@ -36,7 +37,7 @@ If not, a notice of insufficient quatity appears - shown here in red
 ![There is insufficient quantity of that item](screenshots/InsufficientQuantity.gif)
 
 
-if the store does have enough of the product, the customers order is fulfilled and the total cost if shown - shown here in blue
+if the store does have enough of the product, the customers order is fulfilled and the total cost is shown - shown here in blue
 
 *the yellow - shows info for the developer and can be commented out before app is deployed*
 
@@ -53,7 +54,7 @@ the databse is reduced by the number of items sold - * *here item number 1 is re
 # Manager
 
 Running this node application first
-List a set of menu options:
+Lists a set of menu options:
 * View Products for Sale
 * View Low Inventory
 * Add to Inventory
@@ -71,7 +72,7 @@ and the menu reappears
 
 
 
-If the user selects Add to Inventory, then the app prompts to user to add quantity to an item
+If the user selects Add to Inventory, then the app prompts the user to add quantity to an item
 ![Add Inventory](screenshots/addquantity.gif)
 and the menu reappears
 
